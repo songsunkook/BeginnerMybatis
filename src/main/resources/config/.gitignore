@@ -3,7 +3,7 @@
 .gradle
 **/build/
 !src/**/build/
-
+/src/main/resources/config/config.properties
 # Ignore Gradle GUI config
 gradle-app.setting
 
